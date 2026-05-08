@@ -1,0 +1,4 @@
+-keep class com.animex.app.model.** { *; }
+-keep class retrofit2.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "577818153592",
+    "firebase_url": "https://rnfjeanc1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rnfjeanc1",
+    "storage_bucket": "rnfjeanc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577818153592:android:1c1ad9c035cc63047f538d",
+        "android_client_info": {
+          "package_name": "com.animex.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3Te3C5-aTa_4nexeKf3U1D9PCAxPG_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

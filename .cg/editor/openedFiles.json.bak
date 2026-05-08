@@ -1,0 +1,21 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/AniMex/app/src/main/java/com/animex/app/api/ApiClient.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "projectPath": "/storage/emulated/0/CodeOnTheGoProjects/AniMex",
+  "selectedFile": "/storage/emulated/0/CodeOnTheGoProjects/AniMex/app/src/main/java/com/animex/app/api/ApiClient.java"
+}
