@@ -28,11 +28,11 @@ Buka Firebase Console > Database > Realtime Database > Rules > Beri true untuk r
 
 ## Tech Stack
 - **Retrofit2** — API calls ke apinime.tineo.my.id
-- **OkHttp** — Supabase REST API
+- **OkHttp** — Firebase REST API
 - **Glide** — Image loading
 - **WebView** — Video streaming
 - **Material Components** — UI design
-- **Supabase** — Live comments database
+- **Firebase** — Live comments database
 
 
 ### Copyright (c) 2026 Rabbani. All Rights Reserved.
