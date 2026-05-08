@@ -18,7 +18,7 @@ Monochrome + Red Accents | Light & Dark Mode | Live Comments
 ### 1. Buka di Android Studio
 File > Open > pilih folder `AniMex/`
 
-### 2. Setup Supabase Database
+### 2. Setup Firebase
 Buka Firebase Console > Database > Realtime Database > Rules > Beri true untuk read and write pada collection `comments`
 
 ### 3. Build & Run
