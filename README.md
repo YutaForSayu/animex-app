@@ -34,4 +34,5 @@ Buka Firebase Console > Database > Realtime Database > Rules > Beri true untuk r
 - **Material Components** — UI design
 - **Supabase** — Live comments database
 
-**Copyright (c) 2026 Rabbani. All Rights Reserved.
+
+### Copyright (c) 2026 Rabbani. All Rights Reserved.
