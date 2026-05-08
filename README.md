@@ -36,3 +36,4 @@ Buka Firebase Console > Database > Realtime Database > Rules > Beri true untuk r
 
 
 ### Copyright (c) 2026 Rabbani. All Rights Reserved.
+[MIT](/LICENSE)
